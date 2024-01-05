@@ -1,7 +1,8 @@
 repo_name: xavierloeraflores/Swift-App--Tax-Calculator
 report_id: 25bc1aae9038d1ac7ebca5c78833fbcd
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T13:00:45+00:00'
+timestamp: '2024-01-05T08:38:16+00:00'
 requested_by: xavierloeraflores
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/xavierloeraflores/Swift-App--Tax-Calculator
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/xavierloeraflores/Swift-App--Tax-Calculator
   detection_source: Repo Metadata
